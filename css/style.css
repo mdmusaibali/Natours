@@ -662,10 +662,10 @@ body {
         display: inline;
         width: 50%;
         float: left; } }
-    @media (max-width: 376px) {
+    @media (max-width: 426px) {
       .popup__img-1 {
         display: none; } }
-    @media (max-width: 376px) {
+    @media (max-width: 426px) {
       .popup__img-2 {
         width: 100%; } }
   .popup__text {
